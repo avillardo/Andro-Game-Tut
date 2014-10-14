@@ -8,7 +8,7 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
 public class MainActivity extends Activity {
-
+//test Git Edit//
 	private WebView webview;
 
 	@Override
